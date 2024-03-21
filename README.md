@@ -9,7 +9,7 @@
 
 | Manuel Hernandez | Alvaro Sevilla | Diego Salvatierra |
 |-----------------------|----------------|------------------|
-| subir imagen |Estudiante de Ingeniería biomédica interesado en las</p> áreas de ingeniería clínica y imágenes médicas ![WhatsApp Image 2024-03-13 at 3 12 51 PM](https://github.com/manuhlam0706/grupo2_RPatrones_2024_I/assets/70824325/514bfd54-6a71-43dd-9f75-23b23e3d3edf)| Estudiante de Ingeniería Biomédica con afición</p> a las imágenes médicas y análisis de datos [![foto-negro.jpg](https://i.postimg.cc/ZKvmLRq5/foto-negro.jpg)](https://postimg.cc/1fSbmy6k)
+| [![Imagen-de-Whats-App-2024-03-20-a-las-21-50-26-102f144f.jpg](https://i.postimg.cc/W301NwdC/Imagen-de-Whats-App-2024-03-20-a-las-21-50-26-102f144f.jpg)](https://postimg.cc/Hcsg3549) |Estudiante de Ingeniería biomédica interesado en las</p> áreas de ingeniería clínica y imágenes médicas [![Imagen-de-Whats-App-2024-03-20-a-las-21-49-07-be3880d3.jpg](https://i.postimg.cc/BbsQXPD6/Imagen-de-Whats-App-2024-03-20-a-las-21-49-07-be3880d3.jpg)](https://postimg.cc/TL7XswtM)| Estudiante de Ingeniería Biomédica con afición</p> a las imágenes médicas y análisis de datos [![foto-negro.jpg](https://i.postimg.cc/ZKvmLRq5/foto-negro.jpg)](https://postimg.cc/1fSbmy6k)
 
 </div>
 
