@@ -1,0 +1,1 @@
+# G2_ReconocimientoPatrones_2024-1
