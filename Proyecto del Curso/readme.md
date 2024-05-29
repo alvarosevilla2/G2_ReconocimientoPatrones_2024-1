@@ -41,5 +41,10 @@ El objetivo principal de este proyecto es explorar el uso de algoritmos de clasi
 Este proyecto busca contribuir al campo de la salud ocupacional mediante el uso de técnicas avanzadas de reconocimiento de patrones para mejorar la detección y prevención de enfermedades relacionadas con el trabajo. La plataforma desarrollada proporcionará a las empresas y profesionales de la salud una herramienta valiosa para evaluar la salud pulmonar, auditiva y mental de los trabajadores, promoviendo así un entorno laboral más seguro y saludable.
 
 ##links:
+- Carpeta Drive: https://drive.google.com/drive/u/0/folders/1x1UoAdb1DWcBul8iXPcQQuB_y9w6FxVY
+- Colab Espirometría: https://colab.research.google.com/drive/1f1Uw5coPepypnPPHB9cKQc82fGp9hJIS?usp=drive_link
 
+- Colab Espirometría Red neuronal:
 
+- Colab Audiometría:
+https://colab.research.google.com/drive/1cYwFakeoCEjTBOfyn5zqjhLNk0VlRDN#scrollTo=kr2fOfgYIjLP
