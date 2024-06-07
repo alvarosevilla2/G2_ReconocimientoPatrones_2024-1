@@ -26,14 +26,14 @@ Los test psicológicos son esenciales para la salud ocupacional de empleados int
 
 ## Objetivo del Proyecto
 El objetivo principal de este proyecto es explorar el uso de algoritmos de clasificación aplicados a datos de espirometría y audiometría, con el propósito de desarrollar una plataforma que permita interpretar los valores de espirometría y audiometría a través de estos algoritmos de clasificación. Además, se realizará el análisis de información de datos psicológicos de una evaluación ocupacional de salud de trabajadores. Se busca obtener un modelo capaz de:
-- Clasificar con precisión diversas condiciones respiratorias y auditivas
-- Analizar las características de los trabajadores y su relación con los niveles de estrés
+- Clasificar con precisión la aptitud del trabajador de acuerdo a los resultados de exámenes de espirometría, audiomettría y psicología.
+
 
 ## Metodología
 
 1. **Preprocesamiento de Datos**: Limpieza y normalización de los datos recolectados.
 2. **Desarrollo de Algoritmos**: Implementación de algoritmos de clasificación para interpretar los datos de espirometría y audiometría.
-3. **Análisis Psicológico**: Evaluación de los datos psicológicos para identificar niveles de estrés y otros factores emocionales.
+3. **Análisis Psicológico**: Evaluación de los datos psicológicos.
 4. **Validación del Modelo**: Pruebas y validación del modelo desarrollado para asegurar su precisión y fiabilidad.
 5. **Despliegue de la Plataforma**: Desarrollo de una plataforma interactiva para la interpretación de resultados.
 
@@ -43,8 +43,7 @@ Este proyecto busca contribuir al campo de la salud ocupacional mediante el uso 
 ## Links:
 - Carpeta Drive: https://drive.google.com/drive/u/0/folders/1x1UoAdb1DWcBul8iXPcQQuB_y9w6FxVY
 - Colab Espirometría: https://colab.research.google.com/drive/1f1Uw5coPepypnPPHB9cKQc82fGp9hJIS?usp=drive_link
-
-- Colab Espirometría Red neuronal:
+- Colab Psicología:
 
 - Colab Audiometría:
 https://colab.research.google.com/drive/1cYwFakeoCEjTBOfyn5zqjhLNk0VlRDN#scrollTo=kr2fOfgYIjLP
