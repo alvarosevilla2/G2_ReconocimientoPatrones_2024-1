@@ -47,3 +47,6 @@ Este proyecto busca contribuir al campo de la salud ocupacional mediante el uso 
 
 - Colab Audiometría:
 https://colab.research.google.com/drive/1cYwFakeoCEjTBOfyn5zqjhLNk0VlRDN#scrollTo=kr2fOfgYIjLP
+
+- Overleaf:
+https://www.overleaf.com/read/cndqtbtrsrbb#a71786
